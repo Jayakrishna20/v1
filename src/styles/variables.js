@@ -8,12 +8,13 @@ const variables = css`
     --lightest-navy: #ff8170;
     --navy-shadow: rgba(2, 12, 27, 0.7);
     --dark-slate: #495670;
-    --slate: #8892b0;
-    --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
+    --slate: #696963;
+    --light-slate: #4a4a45;
+    --lightest-slate: #2d2d2a;
     --white: #e6f1ff;
-    --green: #64ffda;
-    --green-tint: rgba(100, 255, 218, 0.1);
+    --green: #b0413e;
+    --green-tint: #d58986;
+    --light-green: #ff8170;
     --pink: #f57dff;
     --blue: #57cbff;
 
