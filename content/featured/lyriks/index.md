@@ -11,4 +11,4 @@ tech:
   - Rapid API
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+A fully-fledged music player with a modern homepage that gives you a search, lyrics, song exploration features, popular music around you, worldwide top charts, and much more. This is fully responisve web app with songs directly taken from the [Shazam Core API](https://rapidapi.com/tipsters/api/shazam-core/)
