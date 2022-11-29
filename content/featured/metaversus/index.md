@@ -1,14 +1,14 @@
 ---
 date: '3'
-title: 'Build a Spotify Connected App'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+title: 'Metaversus'
+cover: './demo.png'
+github: 'https://github.com/Jayakrishna20/metaversus'
+external: 'https://jk-metaversus.netlify.app/'
+# cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
-  - React
-  - Express
-  - Spotify API
-  - Styled Components
+  - Next 13
+  - Framer motion
+  - Tailwind css
 ---
 
 Having struggled with understanding how the Spotify OAuth flow works, I made the course I wish I could have had.
