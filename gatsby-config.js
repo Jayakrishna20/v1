@@ -7,7 +7,7 @@ module.exports = {
       'I’m an aspiring software engineer who dreams to build projects towards a cleaner world.',
     siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@JayaKri72658783',
+    twitterUsername: 'JayaKri72658783',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
