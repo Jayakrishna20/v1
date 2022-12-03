@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
 </div>
-#### Link: [jk-portfolio-v1.netlify](https://jk-portfolio-v1.netlify.app/)
+#### Link: [jk-portfolio-v1.netlify.app](https://jk-portfolio-v1.netlify.app/)
 
 Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4).
 
