@@ -5,7 +5,7 @@ module.exports = {
     title: 'Jayakrishnan',
     description:
       'I’m an aspiring software engineer who dreams to build projects towards a cleaner world.',
-    siteUrl: 'http://localhost:8000', // No trailing slash allowed!
+    siteUrl: 'https://jk-portfolio-v1.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'JayaKri72658783',
   },
@@ -17,6 +17,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-robots-txt`,
+    `gatsby-plugin-netlify`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
