@@ -1,7 +1,6 @@
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
 </div>
-<<<<<<< HEAD
 #### Link: [jk-portfolio-v1.netlify](https://jk-portfolio-v1.netlify.app/)
 
 Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4).
@@ -19,9 +18,6 @@ Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4
    </div>
    Demo: [jk-portfolio-v1.netlify.app](https://jk-portfolio-v1.netlify.app/)
    ```
-=======
-#### Link: [jk-portfolio-v1.netlify.app](https://jk-portfolio-v1.netlify.app/)
->>>>>>> e039c2b16a5b14a3f9165d5c9f13745c9d449a7e
 
 Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4).
 
