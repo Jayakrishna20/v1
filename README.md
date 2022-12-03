@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
 </div>
-Demo: [ruolinzheng08.github.io](https://ruolinzheng08.github.io)
+Demo: [Live site](https://ruolinzheng08.github.io)
 
 Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4).
 
