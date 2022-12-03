@@ -1,12 +1,9 @@
 <div align="center">
   <img alt="Logo" src="https://raw.githubusercontent.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
 </div>
-<h1 align="center">
-  jayakrishnan.com - v1
-</h1>
-<p align="center">
-  The first iteration of <a href="https://brittanychiang.com" target="_blank">jayakrishnan.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
+Demo: [ruolinzheng08.github.io](https://ruolinzheng08.github.io)
+
+Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4).
 
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">    
