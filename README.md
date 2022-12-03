@@ -1,31 +1,16 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
 </div>
-<h1 align="center">
-  jayakrishnan.com - v1
-</h1>
-<p align="center">
-  The first iteration of <a href="https://brittanychiang.com" target="_blank">jayakrishnan.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
-</p>
+Demo: [Live site]()
+
+Adapted from [Brittany Chiang's Design on GitHub](https://github.com/bchiang7/v4).
 
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">    
   </a>
 </p>
 
-![demo](https://github.com/Jayakrishna20/v1/master/src/images/demo.png)
-
-## 🚨 Forking this repo (please read!)
-
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
-
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
-
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+![demo](https://raw.githubusercontent.com/Jayakrishna20/v1/master/src/images/demo.png)
 
 ## 🛠 Installation & Set Up
 
