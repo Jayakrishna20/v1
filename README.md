@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/Jayakrishna20/v1/master/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   jayakrishnan.com - v1
