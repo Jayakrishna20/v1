@@ -1,5 +1,5 @@
 ---
-date: '2016-11-01'
+date: '2022-09-21'
 title: 'Snake Game AI'
 github: 'https://github.com/Jayakrishna20/snake-game-ai'
 external: ''

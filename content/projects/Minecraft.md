@@ -1,5 +1,5 @@
 ---
-date: '2020-03-27'
+date: '2022-09-21'
 title: 'Minecraft Clone'
 github: 'https://github.com/Jayakrishna20/minecraft'
 external: 'https://jk-minecraft-clone.netlify.app/'

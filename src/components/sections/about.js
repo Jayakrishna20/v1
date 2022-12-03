@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Javascript', 'Anaconda', 'React', '.NET', 'Node.js', 'Flutter'];
+  const skills = ['Javascript', 'Unity', 'React', '.NET', 'Node.js', 'Flutter'];
   const langs = ['Python', 'Java', 'Dart', 'C#', 'C', 'C++'];
 
   return (

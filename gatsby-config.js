@@ -5,7 +5,7 @@ module.exports = {
     title: 'Jayakrishnan',
     description:
       'I’m an aspiring software engineer who dreams to build projects towards a cleaner world.',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'http://localhost:8000', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: 'JayaKri72658783',
   },

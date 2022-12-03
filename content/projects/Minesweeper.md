@@ -1,5 +1,5 @@
 ---
-date: '2016-08-01'
+date: '2022-09-23'
 title: 'Minesweeper'
 github: 'https://github.com/Jayakrishna20/minesweeper'
 external: ''

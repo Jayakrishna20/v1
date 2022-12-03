@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '2022-08-18'
 title: 'Shopping Cart'
 github: 'https://github.com/Jayakrishna20/shopping-cart'
 external: ''

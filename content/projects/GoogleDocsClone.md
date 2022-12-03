@@ -1,5 +1,5 @@
 ---
-date: '2018-12-29'
+date: '2022-10-22'
 title: 'Google Docs Clone'
 github: 'https://github.com/Jayakrishna20/google-docs-clone'
 external: ''

@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '2022-08-02'
 title: 'Hangman Game'
 github: 'https://github.com/Jayakrishna20/hangman-game'
 external: 'https://jayakrishna20.github.io/hangman-game/'

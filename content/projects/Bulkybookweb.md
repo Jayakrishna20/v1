@@ -1,5 +1,5 @@
 ---
-date: '2017-11-01'
+date: '2022-10-19'
 title: 'Bulky Book'
 github: 'https://github.com/Jayakrishna20/bulkybookWeb'
 external: ''

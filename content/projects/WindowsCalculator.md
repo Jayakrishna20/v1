@@ -1,5 +1,5 @@
 ---
-date: '2019-11-12'
+date: '2022-05-26'
 title: 'Windows Calculator'
 github: 'https://github.com/Jayakrishna20/windows-calculator'
 external: ''

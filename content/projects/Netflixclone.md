@@ -1,5 +1,5 @@
 ---
-date: '2020-01-10'
+date: '2022-07-01'
 title: 'Netflix Clone'
 github: 'https://github.com/Jayakrishna20/netflix-clone'
 external: ''
