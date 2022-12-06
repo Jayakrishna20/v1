@@ -1,7 +1,6 @@
 ---
 date: '2'
 title: 'OLX Clone'
-cover: './demo.png'
 github: 'https://github.com/Jayakrishna20/olx-clone'
 external: 'https://jk-olx-clone.netlify.app/'
 tech:
@@ -10,4 +9,4 @@ tech:
   - Firebase
 ---
 
-A web app for OLX clone. View the Cars, Motocycles and other items up for sale. You can also create an account to sell items. 
+A web app for OLX clone. View the Cars, Motocycles and other items up for sale. You can also create an account to sell items.
