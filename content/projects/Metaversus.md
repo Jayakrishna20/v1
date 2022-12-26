@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2022-11-26'
 title: 'Metaversus'
 cover: './demo.png'
 github: 'https://github.com/Jayakrishna20/metaversus'
