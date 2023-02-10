@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '3'
 title: 'Reddit Clone'
 cover: './demo.png'
 github: 'https://github.com/Jayakrishna20/reddit_clone'
